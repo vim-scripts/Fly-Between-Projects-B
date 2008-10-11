@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2397
+
+Quickly interchange between different projects,Modify file according to your need selfreqfiles.txt
+
+Menu selection Hl Word <> Def project dir <> Default file to be opend
+(Single space between fields
+
+PRJ1 c:\PRJ1DIR1 DEFFILEPRJ1.C
+PRJ2 c:\PRJ1DIR2 DEFFILEPRJ2.C
